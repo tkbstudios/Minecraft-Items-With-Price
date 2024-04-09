@@ -1,12 +1,5 @@
 [
     {
-        "id": 0,
-        "name": "air",
-        "displayName": "Air",
-        "stackSize": 64,
-        "price": 1000.0
-    },
-    {
         "id": 1,
         "name": "stone",
         "displayName": "Stone",
